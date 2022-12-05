@@ -9,7 +9,7 @@
 
 :root {
   // colors
-  @include defineColorHSL(--cd-color-event-1, 250, 84%, 67%);   // Smalt Blue
+  @include defineColorHSL(--cd-color-event-1, 199, 80%, 35%);   // Smalt Blue
   @include defineColorHSL(--cd-color-event-2, 43, 69%, 112%);   // Martinique
   @include defineColorHSL(--cd-color-event-3, 168, 208%, 219%);   // Edward
   @include defineColorHSL(--cd-color-event-4, 228, 3%, 15%);    // Rajah
@@ -299,12 +299,12 @@ a {
 .cd-schedule__event [data-event="event-1"],
 .cd-schedule-modal[data-event="event-1"] .cd-schedule-modal__header-bg {
 	// this is used to set a background color for the event and the modal window
-	background: var(--cd-color-event-1);
+	background-color: rgb(255, 99, 71);
 }
 
 .cd-schedule__event [data-event="event-2"],
 .cd-schedule-modal[data-event="event-2"] .cd-schedule-modal__header-bg {
-	background: var(--cd-color-event-2);
+	background: 233, 71%, 63%;
 }
 
 .cd-schedule__event [data-event="event-3"],
