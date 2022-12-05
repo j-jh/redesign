@@ -5386,7 +5386,8 @@ input[type="button"].btn-block {
 .input-group > .form-control,
   .input-group > .form-control-plaintext,
   .input-group > .custom-select,
-  .input-group > .custom-file {
+  .input-group 
+  > .custom-file {
     position: relative;
     flex: 1 1 auto;
     width: 1%;
@@ -5778,7 +5779,7 @@ input[type="button"].btn-block {
 .custom-file {
     position: relative;
     display: inline-block;
-    width: 100%;
+    width: 95%;
     height: calc(1.5em + 1.2rem + 0.0625rem);
     margin-bottom: 0;
 }
