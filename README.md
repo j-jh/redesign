@@ -1,4 +1,4 @@
-Final Project for CS 486 - UX Design
+CS 486 - UX Design Final Project
 
 CS 110 Course Website Front-end Redesign
 
