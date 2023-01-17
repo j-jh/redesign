@@ -1,4 +1,4 @@
-CS 110 Course Website Front-end Redesign in HTML and CSS
+University Course Website Front-end Redesign in HTML and CSS
 
 https://j-jh.github.io/redesign/sign-in.html 
 
