@@ -1,6 +1,6 @@
 CS 486 - UX Design Final Project
 
-CS 110 Course Website Front-end Redesign: https://www.j-jh.github.io/redesign/sign-in.html 
+CS 110 Course Website Front-end Redesign: https://j-jh.github.io/redesign/sign-in.html 
 
 Reference: https://www.cs.usfca.edu/~wolber/courses/110.f07/
 
