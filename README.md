@@ -1,4 +1,4 @@
-University Course Website Redesign in HTML and CSS
+University Course Website Redesign
 =======
 
 https://j-jh.github.io/redesign/sign-in.html 
@@ -7,4 +7,4 @@ https://j-jh.github.io/redesign/sign-in.html
 By Alexander Kim, Jadon Huang, Kenny Tan, Andres Munoz
 
 
-Reference: https://www.cs.usfca.edu/~wolber/courses/110.f07/
+Front end redesign of: https://www.cs.usfca.edu/~wolber/courses/110.f07/ in HTML and CSS
